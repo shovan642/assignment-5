@@ -1,0 +1,32 @@
+.bg-nav{
+    background-color: #E7F4FB !important;
+}
+
+.bg-1{
+    background-color: #F1F1F1;
+}
+
+
+.color-1{
+    color: #3C3E40;
+}
+
+.color-2 {
+    color: #676C6F;
+}
+
+.color-3{
+    color: #414141;
+}
+
+.custom-w-1 {
+    width: 80px;
+}
+
+.custom-h-1{
+    height: 194px;
+}
+
+.space-right-5 {
+    margin-right: 5px;
+  }
